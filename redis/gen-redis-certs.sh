@@ -2,6 +2,7 @@
 #!/bin/bash
 
 # COPIED/MODIFIED from the redis server gen-certs util
+# https://github.com/redis/redis/blob/cc0091f0f9fe321948c544911b3ea71837cf86e3/utils/gen-test-certs.sh
 
 # Generate some test certificates which are used by the regression test suite:
 #
