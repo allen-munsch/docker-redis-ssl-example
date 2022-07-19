@@ -1,2 +1,2 @@
-FROM redis:6.0.13 as base
+FROM redis:7.0.4 as base
 COPY ./redis/tls /tls
